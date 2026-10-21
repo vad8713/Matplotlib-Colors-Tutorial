@@ -79,4 +79,4 @@ jupyter notebook MatplotlibColorsTuto_EN.ipynb
 
 ## License
 
-Add the license of your choice here (e.g. MIT).
+MIT
